@@ -1,0 +1,3 @@
+Learning Django is fun!
+This is my first file.
+Appending a new line.

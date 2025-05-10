@@ -1,0 +1,2 @@
+with open("notes.txt", "a") as file:
+    file.write("Appending a new line.\n")
